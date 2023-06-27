@@ -19,7 +19,8 @@
 
 ### Samples:
 
-![Sample001_LeicaM](https://github.com/Archive-663/nishiKodak/blob/main/Leica%20M/ASSETS/LeicaM001.mp4)
+Raveena ATL concert | Pushed 800 to 3200, converted to black and white
+![Sample001_LeicaM](https://github.com/Archive-663/nishiKodak/blob/main/Leica%20M/ASSETS/LeicaM001.gif)
 
 ### Printing help:
 I print with PETG because it's pretty easy to set up with and dial in. If you want to use something else, go for it. I'd stay away from PLA because it's not the best in heat and against solvents. 
