@@ -9,6 +9,7 @@
 - Three individual images on one frame
 
 ### What you'll need:
+- 3x Kodak Funsaver lenses from at least 2015 and on
 - a bunch of m1.6 x 5mm pan head screws
 - 1x m1.6 tap
 
