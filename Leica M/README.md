@@ -20,6 +20,10 @@
 ### Samples:
 
 Raveena ATL concert | Pushed 800 to 3200, converted to black and white
+![FRAME001](https://github.com/Archive-663/nishiKodak/blob/main/Leica%20M/ASSETS/GMP09202-Edit.jpg)
+![FRAME001](https://github.com/Archive-663/nishiKodak/blob/main/Leica%20M/ASSETS/GMP09210-Edit.jpg)
+![FRAME001](https://github.com/Archive-663/nishiKodak/blob/main/Leica%20M/ASSETS/GMP09211-Edit.jpg)
+![FRAME001](https://github.com/Archive-663/nishiKodak/blob/main/Leica%20M/ASSETS/GMP09223-Edit.jpg)
 ![Sample001_LeicaM](https://github.com/Archive-663/nishiKodak/blob/main/Leica%20M/ASSETS/LeicaM001.gif)
 
 ### Printing help:
