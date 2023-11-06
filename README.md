@@ -32,7 +32,7 @@ I suggest drilling holds to their correct tap size before tapping. The M1.6 hole
 
 When assembling the rotating assemblies use some synthetic grease similar to Super Lube PTFE or keycap lube to make the rotate function smoother.
 
-Please view the _assembly.stp file for help in parts orientation.
+Please view the _assembly.stp file for help in parts orientation. If you do not have a CAD program, <a href="https://www.freecad.org/downloads.php" target="_blank">download FreeCAD</a> to view the assembly file and better understand how it should assemble. 
 
 ### Help support Archive 663 with a dontation or monthly sub
 
