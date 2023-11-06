@@ -1,4 +1,4 @@
-## nishiKodak for Leica M
+## Lot no. 006 | NishiKodak - for Leica M
 
 ![nishiKodakforLeicaM](https://github.com/Archive-663/nishiKodak/blob/main/Leica%20M/ASSETS/GMP09225.jpg)
 
