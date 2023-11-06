@@ -19,15 +19,6 @@ or
 - M1.4 drill bit
 - M1.8/M2 drill bit
 
-### Samples:
-
-Raveena ATL concert | Pushed 800 to 3200, converted to black and white
-![FRAME001](https://github.com/Archive-663/nishiKodak/blob/main/Leica%20M/ASSETS/GMP09202-Edit.jpg)
-![FRAME001](https://github.com/Archive-663/nishiKodak/blob/main/Leica%20M/ASSETS/GMP09210-Edit.jpg)
-![FRAME001](https://github.com/Archive-663/nishiKodak/blob/main/Leica%20M/ASSETS/GMP09211-Edit.jpg)
-![FRAME001](https://github.com/Archive-663/nishiKodak/blob/main/Leica%20M/ASSETS/GMP09223-Edit.jpg)
-![Sample001_LeicaM](https://github.com/Archive-663/nishiKodak/blob/main/Leica%20M/ASSETS/LeicaM001.gif)
-
 ### Printing help:
 I print with PETG because it's pretty easy to set up with and dial in. If you want to use something else, go for it. I'd stay away from PLA because it's not the best in heat and against solvents. 
 
@@ -40,7 +31,16 @@ I suggest drilling holds to their correct tap size before tapping. The M1.6 hole
 
 When assembling the rotating assemblies use some synthetic grease similar to Super Lube PTFE or keycap lube to make the rotate function smoother.
 
-Please view the _assembly.stp file for help in parts orientation. If you do not have a CAD program, <a href="https://www.freecad.org/downloads.php" target="_blank">download FreeCAD</a> to view the assembly file and better understand how it should assemble. 
+Please view the _assembly.stp file for help in parts orientation. If you do not have a CAD program, <a href="https://www.freecad.org/downloads.php" target="_blank">download FreeCAD</a> to view the assembly file and better understand how it should assemble.
+
+### Samples:
+
+Raveena ATL concert | Pushed 800 to 3200, converted to black and white
+![FRAME001](https://github.com/Archive-663/nishiKodak/blob/main/Leica%20M/ASSETS/GMP09202-Edit.jpg)
+![FRAME001](https://github.com/Archive-663/nishiKodak/blob/main/Leica%20M/ASSETS/GMP09210-Edit.jpg)
+![FRAME001](https://github.com/Archive-663/nishiKodak/blob/main/Leica%20M/ASSETS/GMP09211-Edit.jpg)
+![FRAME001](https://github.com/Archive-663/nishiKodak/blob/main/Leica%20M/ASSETS/GMP09223-Edit.jpg)
+![Sample001_LeicaM](https://github.com/Archive-663/nishiKodak/blob/main/Leica%20M/ASSETS/LeicaM001.gif)
 
 ### Help support Archive 663 with a dontation or monthly sub
 
