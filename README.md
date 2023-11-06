@@ -1,5 +1,7 @@
 ## Lot no. 006 | NishiKodak - The original digital stereoscopic wiggle lens
 
+![sonyNishiKodak](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/DSC01281.jpg)
+
 ### Features:
 - Breech-lock mounting ring
 - 30mm focal length
