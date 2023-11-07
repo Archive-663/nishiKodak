@@ -15,7 +15,9 @@ Tested on a A6300
 
 ### What you'll need:
 - Lots of M1.6 x 5mm pan head screws (PETG or ABS filament)
-or
+
+  or
+
 - Lots of M1.6 x 5mm self tapping screws (ABS filament)
 - 1x M1.6 tap
 - 1x M2 x 5mm Grub Screw 
