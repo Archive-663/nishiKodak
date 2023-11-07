@@ -1,8 +1,8 @@
-## Lot no. 006 | NishiKodak - for Canon FD
+## Lot no. 006 | NishiKodak - for Canon RF
 
-![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_canonFD.jpg)
-![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_canonFD-1.jpg)
-![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_canonFD-2.jpg)
+![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_canonRF.jpg)
+![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_canonRF-1.jpg)
+![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_canonRF-2.jpg)
 
 ### Features:
 - Breech-lock  mounting ring
@@ -18,9 +18,7 @@ You need a Canon body that allows for mirror lock up. Some older film cameras al
 or
 - Lots of M1.6 x 5mm self tapping screws (ABS filament)
 - 1x M1.6 tap
-- 1x M2 x 5mm Grub Screw 
 - 3x Kodak Funsaver lenses (post-2015 expiration date. Kodak had a few lens changes in the Funsaver production lifetime. You'll need a recent Funsaver to make this work)
-- <a href="https://github.com/Archive-663/kodakFunsaver/tree/main/DSLRviewFinder/STL">30mm Kodak Funsaver Viewfinder Rehousing</a>
 
 ### What would be helpful:
 - M1.4 drill bit
