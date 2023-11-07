@@ -15,7 +15,9 @@ Tested on Fuji XE-1
 
 ### What you'll need:
 - Lots of M1.6 x 5mm pan head screws (PETG or ABS filament)
-or
+  
+  or
+
 - Lots of M1.6 x 5mm self tapping screws (ABS filament)
 - 1x M1.6 tap 
 - 2x Kodak Funsaver lenses (post-2015 expiration date. Kodak had a few lens changes in the Funsaver production lifetime. You'll need a recent Funsaver to make this work)

@@ -8,7 +8,7 @@
 - Breech-lock  mounting ring
 - 30mm focal length
 - Fixed ~f11 aperture
-- Two  individual images on one frame
+- Two individual images on one frame
 
 ### Compatibility Note:
 This lens doesn't work on the newer Canon 5D Mark IV, Canon 6D Mark II, and Canon 1DX series. The firmware on the 5D Mark IV and 6D Mark II both look for the mirror to make its full actuation before firing the shutter. This means we can lock the mirror with hardware to shoot with something like this lens. This lens isn't for the faint of heart, there is some risk of damaging your camera. Tested on a beaten old 5DC. Should work on film, but unconfirmed ATM -- will update. 
@@ -17,7 +17,9 @@ Tested on Canon XT + 5D Classic
 
 ### What you'll need:
 - Lots of M1.6 x 5mm pan head screws (PETG or ABS filament)
-or
+  
+  or
+
 - Lots of M1.6 x 5mm self tapping screws (ABS filament)
 - 1x M1.6 tap
 - 2x Kodak Funsaver lenses (post-2015 expiration date. Kodak had a few lens changes in the Funsaver production lifetime. You'll need a recent Funsaver to make this work)
