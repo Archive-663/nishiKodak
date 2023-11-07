@@ -1,27 +1,25 @@
-## Lot no. 006 | NishiKodak - for Canon EF
+## Lot no. 006 | NishiKodak - for Sony E
 
-![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_canonEF.jpg)
-![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_canonEF-1.jpg)
-![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_canonEF-2.jpg)
+![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_sonyE.jpg)
+![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_sonyE-1.jpg)
+![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_sonyE-2.jpg)
 
 ### Features:
 - Breech-lock  mounting ring
 - 30mm focal length
 - Fixed ~f11 aperture
-- Three individual images on one frame
+- Two individual images on one frame
 
 ### Compatibility Note:
-This lens doesn't work on the newer Canon 5D Mark IV, Canon 6D Mark II, and Canon 1DX series. The firmware on the 5D Mark IV and 6D Mark II both look for the mirror to make its full actuation before firing the shutter. This means we can lock the mirror with hardware to shoot with something like this lens. This lens isn't for the faint of heart, there is some risk of damaging your camera. Tested on a beaten old 5DC. Should work on film, but unconfirmed ATM -- will update. 
-
-Tested on Canon XT + 5D Classic
+Tested on a A6300
 
 ### What you'll need:
 - Lots of M1.6 x 5mm pan head screws (PETG or ABS filament)
 or
 - Lots of M1.6 x 5mm self tapping screws (ABS filament)
 - 1x M1.6 tap
-- 3x Kodak Funsaver lenses (post-2015 expiration date. Kodak had a few lens changes in the Funsaver production lifetime. You'll need a recent Funsaver to make this work)
-- <a href="https://github.com/Archive-663/kodakFunsaver/tree/main/DSLRviewFinder/STL">30mm Kodak Funsaver Viewfinder Rehousing</a>
+- 1x M2 x 5mm Grub Screw 
+- 2x Kodak Funsaver lenses (post-2015 expiration date. Kodak had a few lens changes in the Funsaver production lifetime. You'll need a recent Funsaver to make this work)
 
 ### What would be helpful:
 - M1.4 drill bit

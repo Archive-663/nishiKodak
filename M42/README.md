@@ -1,8 +1,8 @@
 ## Lot no. 006 | NishiKodak - for M42
 
-![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_M42.jpg)
-![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_M42-1.jpg)
-![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_M42-2.jpg)
+![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_m42.jpg)
+![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_m42-1.jpg)
+![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_m42-2.jpg)
 
 ### Features:
 - Breech-lock  mounting ring

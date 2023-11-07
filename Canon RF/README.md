@@ -10,6 +10,9 @@
 - Fixed ~f11 aperture
 - Three individual images on one frame
 
+### Compatibility Note:
+Tested on Canon RP
+
 ### What you'll need:
 - Lots of M1.6 x 5mm pan head screws (PETG or ABS filament)
 or

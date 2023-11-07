@@ -1,4 +1,4 @@
-## Lot no. 006 | NishiKodak - for Canon FD
+## Lot no. 006 | NishiKodak - for Fuji X
 
 ![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_fujiX.jpg)
 ![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_fujiX-1.jpg)
@@ -9,6 +9,9 @@
 - 30mm focal length
 - Fixed ~f11 aperture
 - Two individual images on one frame
+
+### Compatibility Note:
+Tested on Fuji XE-1
 
 ### What you'll need:
 - Lots of M1.6 x 5mm pan head screws (PETG or ABS filament)

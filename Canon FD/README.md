@@ -11,7 +11,7 @@
 - Three individual images on one frame
 
 ### Compatibility Note:
-You need a Canon body that allows for mirror lock up. Some older film cameras allowed you to hold the mirror up with hardware, but there are some that link the mirror actuation to the shutter actuation so you can't lock your mirror up. Just make sure you have mirror lock up. 
+You need a Canon body that allows for mirror lock up. Some older film cameras allowed you to hold the mirror up with hardware, but there are some that link the mirror actuation to the shutter actuation so you can't lock your mirror up. Just make sure you have mirror lock up. Tested on a Canon FTb. 
 
 ### What you'll need:
 - Lots of M1.6 x 5mm pan head screws (PETG or ABS filament)
