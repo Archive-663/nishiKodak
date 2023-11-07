@@ -20,7 +20,6 @@ You need a Nikon body that allows for mirror lock up. Some older film cameras al
 
 - Lots of M1.6 x 5mm self tapping screws (ABS filament)
 - 1x M1.6 tap
-- 1x M2 x 5mm Grub Screw 
 - 2x Kodak Funsaver lenses (post-2015 expiration date. Kodak had a few lens changes in the Funsaver production lifetime. You'll need a recent Funsaver to make this work)
 - <a href="https://github.com/Archive-663/kodakFunsaver/tree/main/DSLRviewFinder/STL">30mm Kodak Funsaver Viewfinder Rehousing</a>
 

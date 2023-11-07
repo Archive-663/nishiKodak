@@ -19,8 +19,7 @@ Tested on a Z5.
   or
 
 - Lots of M1.6 x 5mm self tapping screws (ABS filament)
-- 1x M1.6 tap
-- 1x M2 x 5mm Grub Screw 
+- 1x M1.6 tap 
 - 3x Kodak Funsaver lenses (post-2015 expiration date. Kodak had a few lens changes in the Funsaver production lifetime. You'll need a recent Funsaver to make this work)
 
 ### What would be helpful:
