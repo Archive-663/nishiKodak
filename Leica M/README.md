@@ -30,7 +30,7 @@ Generally, my designs have chamfers on the print face of the STL.
 Please view the printOrientation.3mf file for help with orienting the parts on the printer bed. 
 
 ### Assembly help:
-I suggest drilling holds to their correct tap size before tapping. The M1.6 holes should be drilled out to 1.4mm then tapped with the M1.6 tap. The Rotator holes should be drilled out with an M2 or M1.8 drill bit.
+I suggest drilling holds to their correct tap size before tapping. The M1.6 holes should be drilled out to 1.4mm then tapped with the M1.6 tap.
 
 When assembling the rotating assemblies use some synthetic grease similar to Super Lube PTFE or keycap lube to make the rotate function smoother.
 
