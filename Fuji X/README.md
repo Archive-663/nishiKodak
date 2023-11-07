@@ -1,23 +1,23 @@
-## Lot no. 006 | NishiKodak - for Canon EF-S
+## Lot no. 006 | NishiKodak - for Canon FD
 
-![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_canonEF-S.jpg)
-![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_canonEF-S-1.jpg)
-![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_canonEF-S-2.jpg)
+![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_fujiX.jpg)
+![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_fujiX-1.jpg)
+![nishiKodakforCanonEF](https://github.com/Archive-663/nishiKodak/blob/main/ASSETS/nishiKodak_fujiX-2.jpg)
 
 ### Features:
 - Breech-lock  mounting ring
 - 30mm focal length
 - Fixed ~f11 aperture
-- Two  individual images on one frame
+- Two individual images on one frame
 
 ### Compatibility Note:
-This lens doesn't work on the newer Canon 5D Mark IV, Canon 6D Mark II, and Canon 1DX series. The firmware on the 5D Mark IV and 6D Mark II both look for the mirror to make its full actuation before firing the shutter. This means we can lock the mirror with hardware to shoot with something like this lens. This lens isn't for the faint of heart, there is some risk of damaging your camera. Tested on a beaten old 5DC. Should work on film, but unconfirmed ATM -- will update. 
+You need a Canon body that allows for mirror lock up. Some older film cameras allowed you to hold the mirror up with hardware, but there are some that link the mirror actuation to the shutter actuation so you can't lock your mirror up. Just make sure you have mirror lock up. 
 
 ### What you'll need:
 - Lots of M1.6 x 5mm pan head screws (PETG or ABS filament)
 or
 - Lots of M1.6 x 5mm self tapping screws (ABS filament)
-- 1x M1.6 tap
+- 1x M1.6 tap 
 - 2x Kodak Funsaver lenses (post-2015 expiration date. Kodak had a few lens changes in the Funsaver production lifetime. You'll need a recent Funsaver to make this work)
 - <a href="https://github.com/Archive-663/kodakFunsaver/tree/main/DSLRviewFinder/STL">30mm Kodak Funsaver Viewfinder Rehousing</a>
 
