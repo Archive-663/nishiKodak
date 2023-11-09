@@ -11,7 +11,7 @@
 - Three individual images on one frame
 
 ### Compatibility Note:
-Tested on a Z5.
+Tested on a Z5. Print the '_depthChecker.stl' to check for any intereference between the baffles and the shutter. To verify, with no lens mounted, fire the shutter. Make a note of where the mechanical shutter fires from. Mount the depth checker and visually inspect to verify the rear baffle doesn't interfere with the mechanical shutter. If you feel confident it doesn't fire the shutter to confirm. I recommend using the electronic shutter only to avoid any potential interfernce if you're not comfortable with firing the mechanical shutter. 
 
 ### What you'll need:
 - Lots of M1.6 x 5mm pan head screws (PETG or ABS filament)

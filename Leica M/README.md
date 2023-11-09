@@ -8,6 +8,9 @@
 - Fixed ~f11 aperture
 - Three individual images on one frame
 
+### Compatibility notes:
+Tested on a Minolta CL. Print the '_depthChecker.stl' to check for any intereference between the baffles and the shutter. To verify, with no lens mounted, fire the shutter. Make a note of where the mechanical shutter fires from. Mount the depth checker and visually inspect to verify the rear baffle doesn't interfere with the mechanical shutter. If you feel confident it doesn't fire the shutter to confirm. 
+
 ### What you'll need:
 - Lots of M1.6 x 5mm pan head screws (PETG or ABS filament)
   
