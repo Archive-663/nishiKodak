@@ -46,6 +46,11 @@ Please view the _assembly.stp file for help in parts orientation. If you do not 
 
 Coming Soon.
 
+### Helpful videos:
+- <a href="https://www.youtube.com/watch?v=ZdX-1SL8kYE" target="_blank">Old Print and Assembly Video</a>
+- <a href="https://www.youtube.com/watch?v=JzHJL4l5Iv4" target="_blank">How to wigglegram</a>
+- <a href="https://www.youtube.com/watch?v=mniP1P2PrpM" target="_blank">Kodak Funsaver Disassembly</a>
+
 ### Help support Archive 663 with a dontation or monthly sub
 
 <a href='https://ko-fi.com/P5P3MHMSF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
