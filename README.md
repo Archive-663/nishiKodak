@@ -32,7 +32,12 @@ I suggest drilling holds to their correct tap size before tapping. The M1.6 hole
 
 When assembling the rotating assemblies use some synthetic grease similar to Super Lube PTFE or keycap lube to make the rotate function smoother.
 
-Please view the _assembly.stp file for help in parts orientation. If you do not have a CAD program, <a href="https://www.freecad.org/downloads.php" target="_blank">download FreeCAD</a> to view the assembly file and better understand how it should assemble. 
+Please view the _assembly.stp file for help in parts orientation. If you do not have a CAD program, <a href="https://www.freecad.org/downloads.php" target="_blank">download FreeCAD</a> to view the assembly file and better understand how it should assemble.
+
+### Helpful videos:
+- <a href="https://www.youtube.com/watch?v=ZdX-1SL8kYE" target="_blank">Old Print and Assembly Video</a>
+- <a href="https://www.youtube.com/watch?v=JzHJL4l5Iv4" target="_blank">How to wigglegram</a>
+- <a href="https://www.youtube.com/watch?v=mniP1P2PrpM" target="_blank">Kodak Funsaver Disassembly</a>
 
 ### Help support Archive 663 with a dontation or monthly sub
 
