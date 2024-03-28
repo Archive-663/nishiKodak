@@ -38,6 +38,7 @@ Please view the _assembly.stp file for help in parts orientation. If you do not 
 - <a href="https://www.youtube.com/watch?v=ZdX-1SL8kYE" target="_blank">Old Print and Assembly Video</a>
 - <a href="https://www.youtube.com/watch?v=JzHJL4l5Iv4" target="_blank">How to wigglegram</a>
 - <a href="https://www.youtube.com/watch?v=mniP1P2PrpM" target="_blank">Kodak Funsaver Disassembly</a>
+- <a href="https://www.youtube.com/watch?v=VX9ajfPWNos">How to use depth checker</a>
 
 ### Help support Archive 663 with a dontation or monthly sub
 
