@@ -41,8 +41,6 @@ Please view the _assembly.stp file for help in parts orientation. If you do not 
 
 ### Samples:
 
-Coming Soon.
-
 ### Helpful videos:
 - <a href="https://www.youtube.com/watch?v=ZdX-1SL8kYE" target="_blank">Old Print and Assembly Video</a>
 - <a href="https://www.youtube.com/watch?v=JzHJL4l5Iv4" target="_blank">How to wigglegram</a>
