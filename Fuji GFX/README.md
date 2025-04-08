@@ -40,7 +40,6 @@ When assembling the rotating assemblies use some synthetic grease similar to Sup
 Please view the _assembly.stp file for help in parts orientation. If you do not have a CAD program, <a href="https://www.freecad.org/downloads.php" target="_blank">download FreeCAD</a> to view the assembly file and better understand how it should assemble.
 
 ### Samples:
-[![Watch the video]](https://github.com/Archive-663/nishiKodak/blob/main/Fuji%20GFX/ASSETS/SAMPLE/V1-0001_wiggleGramGFX.mp4)
 
 ### Helpful videos:
 - <a href="https://www.youtube.com/watch?v=ZdX-1SL8kYE" target="_blank">Old Print and Assembly Video</a>
