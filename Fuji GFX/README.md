@@ -41,7 +41,7 @@ Please view the _assembly.stp file for help in parts orientation. If you do not 
 
 ### Samples:
 
-<video src="https://github.com/Archive-663/nishiKodak/blob/main/Fuji%20GFX/ASSETS/SAMPLE/V1-0001_wiggleGramGFX.mp4">
+<video src="https://github.com/Archive-663/nishiKodak/blob/main/Fuji%20GFX/ASSETS/SAMPLE/V1-0001_wiggleGramGFX.mp4">Video</video>
 
 ### Helpful videos:
 - <a href="https://www.youtube.com/watch?v=ZdX-1SL8kYE" target="_blank">Old Print and Assembly Video</a>
